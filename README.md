@@ -4,3 +4,4 @@ A batch script for enabling Tor and Privoxy as a SOCKS5 proxy on Windows, provid
 ### To Do
 - Automatic update Tor & Privoxy
 - More improvemnts to the code
+- Maybe make it supports linux
