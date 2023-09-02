@@ -8,4 +8,3 @@ run `Start.bat`
 - Automatic update Tor & Privoxy
 - Adding bridges support
 - More improvemnts to the code
-- 
